@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="743a837f-f738-4266-91b5-0212b08370ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-    </list>
+    <list default="true" id="743a837f-f738-4266-91b5-0212b08370ce" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586829676129</updated>
-      <workItem from="1586829677675" duration="348000" />
+      <workItem from="1586829677675" duration="596000" />
     </task>
     <servers />
   </component>
@@ -56,5 +54,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2582" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586829977821" />
+    <state x="2372" y="202" key="Vcs.Push.Dialog.v2" timestamp="1586830407393">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2372" y="202" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586830407393" />
   </component>
 </project>
